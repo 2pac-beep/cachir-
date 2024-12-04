@@ -1,0 +1,120 @@
+
+
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(176, 130, 97);
+    background-color: #F7F9FC;
+}
+
+
+.card-white {
+    background-color: rgb(235, 157, 12);
+    text-align: center;
+    width: 70%;
+    padding: 16px;
+    margin: 16px auto;
+    border-radius: 15px;
+    box-shadow: 5px 4px 1px 1px black;
+
+}
+
+
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: rgb(236, 75, 16);
+    text-align: center;
+}
+
+
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: rgb(102, 73, 36);
+    border-image-slice: ;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: rgb(102, 73, 36);
+}
+
+h4{
+    font-family: limelight;
+    font-size: 20px;
+    color: rgb(132, 23, 23);
+
+
+
+
+}
+
+h5 { 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color:rgb(102, 73, 36);
+
+}
+
+
+.flex {
+    display: flex;
+    background-color: rgb(235, 157, 12);
+    line-height: 30px;
+    
+}
+
+
+
+
+
+body{
+    background-color: beige;
+    text-align: center;
+    text-align: center;
+}
+
+div{
+    background-color: antiquewhite;
+    text-align: center;
+    border-radius: 
+}
+
+
+.button-blue {
+    background-color: crimson;
+    border: 1px solid crimson;
+    color: white;
+    padding:12px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+    width: 25%;
+    margin: 0 auto;
+}
+
+.button-blue:hover {
+background-color: white;
+color: crimson;
+transition: 0,5s;
+}
+
+i {
+font-size: 48px;
+color: black;
+}
+
+ul>li{
+display: inline;
+}
+ul{
+    padding: 0%;
+}
+
+img {
+    border-radius: 8px;
+
+}
